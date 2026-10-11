@@ -335,21 +335,9 @@ inputs : [-0.0905, -0.0152, 1.0118, 0.9972, -0.0072, 0.0740, 0.0019, 0.0208, -0.
 targets: [-0.0, 0.0, 0.0, 0.0038, 0.1482, 0.0145, -1.0]
 ```
 
-## Video inputs and decision targets
+## Developer documentation
 
-See the [GitHub repository](https://github.com/juanfrh7/Quantum-reservoir-computing-for-robot-motion-prediction).
-
-## Train and export
-
-See the [GitHub repository](https://github.com/juanfrh7/Quantum-reservoir-computing-for-robot-motion-prediction).
-
-## Evaluate with NumPy only
-
-See the [GitHub repository](https://github.com/juanfrh7/Quantum-reservoir-computing-for-robot-motion-prediction).
-
-## Reservoir state and streaming
-
-See the [GitHub repository](https://github.com/juanfrh7/Quantum-reservoir-computing-for-robot-motion-prediction).
+Details on video inputs and decision targets, training and export, NumPy-only evaluation, and reservoir state and streaming are in the [GitHub repository](https://github.com/juanfrh7/Quantum-reservoir-computing-for-robot-motion-prediction).
 
 
 
